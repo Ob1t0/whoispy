@@ -5,7 +5,7 @@ Requerimentos:
 -> BeautifulSoup4: pip install BeautifulSoup4
 
 Requeriments:
--> BeautifulSoup4: pip install BeautifulSoup4
+-> BeautifulSoup4: pip install BeautifulSoup4<br>
 ........................................................................................
 
 Createdby: Ob1t0_
